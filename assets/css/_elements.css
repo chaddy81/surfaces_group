@@ -11,7 +11,6 @@
     font: normal 24px/30px 'Myriad Pro', sans-serif; }
   .sales-pitch .gray-bar {
     background: #ababab;
-    content: '';
     display: inline-block;
     height: 2px;
     margin: 0 15px;
