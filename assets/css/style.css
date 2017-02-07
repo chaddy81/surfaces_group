@@ -1,0 +1,115 @@
+/************************
+**      Web Fonts      **
+************************/
+@font-face {
+  font-family: 'Pontiac';
+  src: url("../fonts/Pontiac/Web Fonts/Regular/pontiac_regular-webfont.eot");
+  src: url("../fonts/Pontiac/Web Fonts/Regular/pontiac_regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Pontiac/Web Fonts/Regular/pontiac_regular-webfont.woff") format("woff"), url("../fonts/Pontiac/Web Fonts/Regular/pontiac_regular-webfont.woff2") format("woff2"), url("../fonts/Pontiac/Web Fonts/Regular/pontiac_regular-webfont.ttf") format("truetype"), url("../fonts/Pontiac/Web Fonts/Regular/pontiac_regular-webfont.svg#fontname") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'Pontiac';
+  src: url("../fonts/Pontiac/Web Fonts/Regular-Italic/pontiac_regular_italic-webfont.eot");
+  src: url("../fonts/Pontiac/Web Fonts/Regular-Italic/pontiac_regular_italic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Pontiac/Web Fonts/Regular-Italic/pontiac_regular_italic-webfont.woff") format("woff"), url("../fonts/Pontiac/Web Fonts/Regular-Italic/pontiac_regular_italic-webfont.woff2") format("woff2"), url("../fonts/Pontiac/Web Fonts/Regular-Italic/pontiac_regular_italic-webfont.ttf") format("truetype"), url("../fonts/Pontiac/Web Fonts/Regular-Italic/pontiac_regular_italic-webfont.svg#fontname") format("svg");
+  font-weight: normal;
+  font-style: italic; }
+@font-face {
+  font-family: 'Pontiac';
+  src: url("../fonts/Pontiac/Web Fonts/Light-Italic/pontiac_light_italic-webfont.eot");
+  src: url("../fonts/Pontiac/Web Fonts/Light-Italic/pontiac_light_italic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Pontiac/Web Fonts/Light-Italic/pontiac_light_italic-webfont.woff") format("woff"), url("../fonts/Pontiac/Web Fonts/Light-Italic/pontiac_light_italic-webfont.woff2") format("woff2"), url("../fonts/Pontiac/Web Fonts/Light-Italic/pontiac_light_italic-webfont.ttf") format("truetype"), url("../fonts/Pontiac/Web Fonts/Light-Italic/pontiac_light_italic-webfont.svg#fontname") format("svg");
+  font-weight: 200;
+  font-style: italic; }
+@font-face {
+  font-family: 'Pontiac';
+  src: url("../fonts/Pontiac/Web Fonts/Light/pontiac_light-webfont.eot");
+  src: url("../fonts/Pontiac/Web Fonts/Light/pontiac_light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Pontiac/Web Fonts/Light/pontiac_light-webfont.woff") format("woff"), url("../fonts/Pontiac/Web Fonts/Light/pontiac_light-webfont.woff2") format("woff2"), url("../fonts/Pontiac/Web Fonts/Light/pontiac_light-webfont.ttf") format("truetype"), url("../fonts/Pontiac/Web Fonts/Light/pontiac_light-webfont.svg#fontname") format("svg");
+  font-weight: 200;
+  font-style: normal; }
+@font-face {
+  font-family: 'Pontiac';
+  src: url("../fonts/Pontiac/Web Fonts/Bold-Italic/pontiac_bold_italic-webfont.eot");
+  src: url("../fonts/Pontiac/Web Fonts/Bold-Italic/pontiac_bold_italic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Pontiac/Web Fonts/Bold-Italic/pontiac_bold_italic-webfont.woff") format("woff"), url("../fonts/Pontiac/Web Fonts/Bold-Italic/pontiac_bold_italic-webfont.woff2") format("woff2"), url("../fonts/Pontiac/Web Fonts/Bold-Italic/pontiac_bold_italic-webfont.ttf") format("truetype"), url("../fonts/Pontiac/Web Fonts/Bold-Italic/pontiac_bold_italic-webfont.svg#fontname") format("svg");
+  font-weight: 600;
+  font-style: italic; }
+@font-face {
+  font-family: 'Pontiac';
+  src: url("../fonts/Pontiac/Web Fonts/Bold/pontiac_bold-webfont.eot");
+  src: url("../fonts/Pontiac/Web Fonts/Bold/pontiac_bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Pontiac/Web Fonts/Bold/pontiac_bold-webfont.woff") format("woff"), url("../fonts/Pontiac/Web Fonts/Bold/pontiac_bold-webfont.woff2") format("woff2"), url("../fonts/Pontiac/Web Fonts/Bold/pontiac_bold-webfont.ttf") format("truetype"), url("../fonts/Pontiac/Web Fonts/Bold/pontiac_bold-webfont.svg#fontname") format("svg");
+  font-weight: 600;
+  font-style: normal; }
+@font-face {
+  font-family: 'Pontiac';
+  src: url("../fonts/Pontiac/Web Fonts/Black-Italic/pontiac_black_italic-webfont.eot");
+  src: url("../fonts/Pontiac/Web Fonts/Black-Italic/pontiac_black_italic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Pontiac/Web Fonts/Black-Italic/pontiac_black_italic-webfont.woff") format("woff"), url("../fonts/Pontiac/Web Fonts/Black-Italic/pontiac_black_italic-webfont.woff2") format("woff2"), url("../fonts/Pontiac/Web Fonts/Black-Italic/pontiac_black_italic-webfont.ttf") format("truetype"), url("../fonts/Pontiac/Web Fonts/Black-Italic/pontiac_black_italic-webfont.svg#fontname") format("svg");
+  font-weight: 900;
+  font-style: italic; }
+@font-face {
+  font-family: 'Pontiac';
+  src: url("../fonts/Pontiac/Web Fonts/Black/pontiac_black-webfont.eot");
+  src: url("../fonts/Pontiac/Web Fonts/Black/pontiac_black-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Pontiac/Web Fonts/Black/pontiac_black-webfont.woff") format("woff"), url("../fonts/Pontiac/Web Fonts/Black/pontiac_black-webfont.woff2") format("woff2"), url("../fonts/Pontiac/Web Fonts/Black/pontiac_black-webfont.ttf") format("truetype"), url("../fonts/Pontiac/Web Fonts/Black/pontiac_black-webfont.svg#fontname") format("svg");
+  font-weight: 900;
+  font-style: italic; }
+.brand {
+  float: none;
+  height: 52px;
+  width: 153px; }
+  .brand img {
+    height: 52px;
+    width: 153px; }
+
+.navbar {
+  background: #fff;
+  border: none;
+  padding: 10px 20px; }
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:active,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover {
+  background-color: #f05627;
+  color: #fff; }
+
+.carousel {
+  margin: 0 auto;
+  max-height: 318px;
+  overflow: hidden;
+  width: 100%; }
+  .carousel .carousel-inner {
+    max-height: 318px; }
+  .carousel .item {
+    max-height: 318px; }
+    .carousel .item img {
+      width: 100%; }
+
+.sales-pitch {
+  background: #282828;
+  padding-bottom: 80px; }
+  .sales-pitch h2 {
+    font: bold 30px/1 'Pontiac', sans-serif;
+    color: #f05627;
+    margin: 0;
+    padding-top: 44px; }
+  .sales-pitch p {
+    color: #e1e1e1;
+    font: normal 24px/30px 'Myriad Pro', sans-serif; }
+  .sales-pitch .gray-bar {
+    background: #ababab;
+    content: '';
+    display: inline-block;
+    height: 2px;
+    margin: 0 15px;
+    vertical-align: middle;
+    width: 74px; }
+  .sales-pitch .home-icon {
+    height: 39px;
+    width: 35px; }
+  .sales-pitch .discription {
+    font: normal 14px/1.5 'Pontiac', sans-serif;
+    padding-top: 31px;
+    color: #ababab; }
+  .sales-pitch .areas {
+    color: #ababab;
+    font: normal 18px/1 'Myriad Pro', sans-serif;
+    padding-top: 25px; }
+
+/*# sourceMappingURL=style.css.map */

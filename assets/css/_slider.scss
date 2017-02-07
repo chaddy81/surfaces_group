@@ -1,0 +1,15 @@
+.carousel {
+    margin: 0 auto;
+    max-height: 318px;
+    overflow: hidden;
+    width: 100%;
+    .carousel-inner {
+        max-height: 318px;
+    }
+    .item {
+        max-height: 318px;
+        img {
+            width: 100%;
+        }
+    }
+}
