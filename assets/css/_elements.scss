@@ -1,4 +1,4 @@
-.sales-pitch, .about-us {
+.sales-pitch, .about-us, .services {
     background: #282828;
     padding-bottom: 80px;
     text-align: center;
@@ -22,7 +22,7 @@
         vertical-align: middle;
         width: 74px;
     }
-    .home-icon, .about-icon {
+    .home-icon, .about-icon, .services-icon {
         height: 39px;
         width: 35px;
     }
@@ -47,6 +47,9 @@
         padding-bottom: 37px;
     }
 
+.services {
+    padding-bottom: 0;
+}
 
     
 

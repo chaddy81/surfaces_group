@@ -83,43 +83,46 @@
     .carousel .item img {
       width: 100%; }
 
-.sales-pitch, .about-us {
+.sales-pitch, .about-us, .services {
   background: #282828;
   padding-bottom: 80px;
   text-align: center; }
-  .sales-pitch h2, .about-us h2 {
+  .sales-pitch h2, .about-us h2, .services h2 {
     font: bold 30px/1 'Pontiac', sans-serif;
     color: #f05627;
     margin: 0;
     padding-top: 44px;
     padding-bottom: 17px; }
-  .sales-pitch p, .about-us p {
+  .sales-pitch p, .about-us p, .services p {
     color: #e1e1e1;
     font: normal 24px/30px 'Myriad Pro', sans-serif; }
-  .sales-pitch .gray-bar, .about-us .gray-bar {
+  .sales-pitch .gray-bar, .about-us .gray-bar, .services .gray-bar {
     background: #ababab;
     display: inline-block;
     height: 2px;
     margin: 0 15px;
     vertical-align: middle;
     width: 74px; }
-  .sales-pitch .home-icon, .sales-pitch .about-icon, .about-us .home-icon, .about-us .about-icon {
+  .sales-pitch .home-icon, .sales-pitch .about-icon, .sales-pitch .services-icon, .about-us .home-icon, .about-us .about-icon, .about-us .services-icon, .services .home-icon, .services .about-icon, .services .services-icon {
     height: 39px;
     width: 35px; }
-  .sales-pitch .discription, .about-us .discription {
+  .sales-pitch .discription, .about-us .discription, .services .discription {
     font: normal 14px/1.5 'Pontiac', sans-serif;
     padding-top: 31px;
     color: #ababab; }
-  .sales-pitch .about, .about-us .about {
+  .sales-pitch .about, .about-us .about, .services .about {
     font: normal 14px/1.5 'Pontiac', sans-serif;
     padding-top: 31px;
     color: #fff; }
-  .sales-pitch .areas, .about-us .areas {
+  .sales-pitch .areas, .about-us .areas, .services .areas {
     color: #ababab;
     font: normal 18px/1 'Myriad Pro', sans-serif;
     padding-top: 25px; }
 
 .about-us {
   padding-bottom: 37px; }
+
+.services {
+  padding-bottom: 0; }
 
 /*# sourceMappingURL=style.css.map */
