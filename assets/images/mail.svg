@@ -1,1 +1,18 @@
-<?xml version="1.0" ?><svg enable-background="new 0 0 32 32" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Style_2"><g><path d="M16,0C7.163,0,0,7.163,0,16c0,8.836,7.163,16,16,16s16-7.164,16-16C32,7.163,24.837,0,16,0z" fill="#333333"/></g><g><polygon fill="#FFFFFF" points="6.518,21.815 11.707,15.291 6.518,12.119   "/><polygon fill="#FFFFFF" points="19.5,15.746 15.989,17.908 12.472,15.758 7.11,22.5 24.867,22.5   "/><polygon fill="#FFFFFF" points="15.988,16.864 25.482,11.017 25.482,9.5 6.518,9.5 6.518,11.076   "/><polygon fill="#FFFFFF" points="20.263,15.276 25.482,21.843 25.482,12.062   "/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="600px" height="604.5px" viewBox="0 95.5 600 604.5" enable-background="new 0 95.5 600 604.5" xml:space="preserve">
+<g id="Style_2">
+	<g>
+		<path fill="#333333" d="M300,100C134.306,100,0,234.306,0,400c0,165.675,134.306,300,300,300c165.693,0,300-134.325,300-300
+			C600,234.306,465.693,100,300,100z"/>
+	</g>
+	<g>
+		<polygon fill="#FFFFFF" points="122.212,509.031 219.506,386.706 122.212,327.231 		"/>
+		<polygon fill="#FFFFFF" points="365.625,395.237 299.794,435.775 233.85,395.462 133.312,521.875 466.256,521.875 		"/>
+		<polygon fill="#FFFFFF" points="299.775,416.2 477.787,306.569 477.787,278.125 122.212,278.125 122.212,307.675 		"/>
+		<polygon fill="#FFFFFF" points="379.932,386.425 477.787,509.557 477.787,326.163 		"/>
+	</g>
+</g>
+</svg>

@@ -1,1 +1,14 @@
-<?xml version="1.0" ?><svg enable-background="new 0 0 32 32" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Flat_copy"><g><path d="M16,0C7.163,0,0,7.163,0,16c0,8.836,7.163,16,16,16s16-7.164,16-16C32,7.163,24.837,0,16,0z" fill="#333333"/></g><path d="M13.69,24.903h3.679v-8.904h2.454l0.325-3.068h-2.779l0.004-1.536c0-0.8,0.076-1.229,1.224-1.229h1.534   V7.097h-2.455c-2.949,0-3.986,1.489-3.986,3.992v1.842h-1.838v3.069h1.838V24.903z" fill="#FFFFFF"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="600px" height="604.5px" viewBox="0 95.5 600 604.5" enable-background="new 0 95.5 600 604.5" xml:space="preserve">
+<g id="Flat_copy">
+	<g>
+		<path fill="#333333" d="M300,100C134.306,100,0,234.306,0,400c0,165.675,134.306,300,300,300c165.693,0,300-134.325,300-300
+			C600,234.306,465.693,100,300,100z"/>
+	</g>
+	<path fill="#FFFFFF" d="M256.688,566.932h68.981v-166.95h46.013l6.094-57.525h-52.106l0.075-28.8c0-15,1.425-23.044,22.949-23.044
+		h28.763v-57.543h-46.031c-55.293,0-74.737,27.918-74.737,74.85v34.537h-34.462V400h34.462V566.932z"/>
+</g>
+</svg>
