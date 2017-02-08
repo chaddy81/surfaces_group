@@ -1,4 +1,4 @@
-.sales-pitch, .about-us, .services, .case {
+.sales-pitch, .about-us, .services, .case, .contact {
     background: #282828;
     padding-bottom: 80px;
     text-align: center;
@@ -55,6 +55,15 @@
     padding-bottom: 0;
 }
 
+.contact {
+    padding-bottom: 25px;
+    .work {
+        margin: 0;
+        padding-top: 15px;
+        font: normal 14px/1.5 'Pontiac', sans-serif;
+        color: #fff;
+    }
+}
   .scapes {
     background: #474847;
     max-height: 51px;

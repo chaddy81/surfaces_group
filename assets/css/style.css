@@ -83,38 +83,38 @@
     .carousel .item img {
       width: 100%; }
 
-.sales-pitch, .about-us, .services, .case {
+.sales-pitch, .about-us, .services, .case, .contact {
   background: #282828;
   padding-bottom: 80px;
   text-align: center; }
-  .sales-pitch h2, .about-us h2, .services h2, .case h2 {
+  .sales-pitch h2, .about-us h2, .services h2, .case h2, .contact h2 {
     font: bold 30px/1 'Pontiac', sans-serif;
     color: #f05627;
     margin: 0;
     padding-top: 44px;
     padding-bottom: 17px; }
-  .sales-pitch p, .about-us p, .services p, .case p {
+  .sales-pitch p, .about-us p, .services p, .case p, .contact p {
     color: #e1e1e1;
     font: normal 24px/30px 'Myriad Pro', sans-serif; }
-  .sales-pitch .gray-bar, .about-us .gray-bar, .services .gray-bar, .case .gray-bar {
+  .sales-pitch .gray-bar, .about-us .gray-bar, .services .gray-bar, .case .gray-bar, .contact .gray-bar {
     background: #ababab;
     display: inline-block;
     height: 2px;
     margin: 0 15px;
     vertical-align: middle;
     width: 74px; }
-  .sales-pitch .home-icon, .sales-pitch .about-icon, .sales-pitch .services-icon, .about-us .home-icon, .about-us .about-icon, .about-us .services-icon, .services .home-icon, .services .about-icon, .services .services-icon, .case .home-icon, .case .about-icon, .case .services-icon {
+  .sales-pitch .home-icon, .sales-pitch .about-icon, .sales-pitch .services-icon, .about-us .home-icon, .about-us .about-icon, .about-us .services-icon, .services .home-icon, .services .about-icon, .services .services-icon, .case .home-icon, .case .about-icon, .case .services-icon, .contact .home-icon, .contact .about-icon, .contact .services-icon {
     height: 39px;
     width: 35px; }
-  .sales-pitch .discription, .about-us .discription, .services .discription, .case .discription {
+  .sales-pitch .discription, .about-us .discription, .services .discription, .case .discription, .contact .discription {
     font: normal 14px/1.5 'Pontiac', sans-serif;
     padding-top: 31px;
     color: #ababab; }
-  .sales-pitch .about, .about-us .about, .services .about, .case .about {
+  .sales-pitch .about, .about-us .about, .services .about, .case .about, .contact .about {
     font: normal 14px/1.5 'Pontiac', sans-serif;
     padding-top: 31px;
     color: #fff; }
-  .sales-pitch .areas, .about-us .areas, .services .areas, .case .areas {
+  .sales-pitch .areas, .about-us .areas, .services .areas, .case .areas, .contact .areas {
     color: #ababab;
     font: normal 18px/1 'Myriad Pro', sans-serif;
     padding-top: 25px; }
@@ -127,6 +127,14 @@
 
 .case {
   padding-bottom: 0; }
+
+.contact {
+  padding-bottom: 25px; }
+  .contact .work {
+    margin: 0;
+    padding-top: 15px;
+    font: normal 14px/1.5 'Pontiac', sans-serif;
+    color: #fff; }
 
 .scapes {
   background: #474847;
