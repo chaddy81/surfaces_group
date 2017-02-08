@@ -60,7 +60,9 @@
 .navbar {
   background: #fff;
   border: none;
-  padding: 10px 20px; }
+  padding: 10px 20px;
+  margin: 0;
+  padding-bottom: 0; }
 
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:active,
@@ -81,35 +83,43 @@
     .carousel .item img {
       width: 100%; }
 
-.sales-pitch {
+.sales-pitch, .about-us {
   background: #282828;
-  padding-bottom: 80px; }
-  .sales-pitch h2 {
+  padding-bottom: 80px;
+  text-align: center; }
+  .sales-pitch h2, .about-us h2 {
     font: bold 30px/1 'Pontiac', sans-serif;
     color: #f05627;
     margin: 0;
-    padding-top: 44px; }
-  .sales-pitch p {
+    padding-top: 44px;
+    padding-bottom: 17px; }
+  .sales-pitch p, .about-us p {
     color: #e1e1e1;
     font: normal 24px/30px 'Myriad Pro', sans-serif; }
-  .sales-pitch .gray-bar {
+  .sales-pitch .gray-bar, .about-us .gray-bar {
     background: #ababab;
-    content: '';
     display: inline-block;
     height: 2px;
     margin: 0 15px;
     vertical-align: middle;
     width: 74px; }
-  .sales-pitch .home-icon {
+  .sales-pitch .home-icon, .sales-pitch .about-icon, .about-us .home-icon, .about-us .about-icon {
     height: 39px;
     width: 35px; }
-  .sales-pitch .discription {
+  .sales-pitch .discription, .about-us .discription {
     font: normal 14px/1.5 'Pontiac', sans-serif;
     padding-top: 31px;
     color: #ababab; }
-  .sales-pitch .areas {
+  .sales-pitch .about, .about-us .about {
+    font: normal 14px/1.5 'Pontiac', sans-serif;
+    padding-top: 31px;
+    color: #fff; }
+  .sales-pitch .areas, .about-us .areas {
     color: #ababab;
     font: normal 18px/1 'Myriad Pro', sans-serif;
     padding-top: 25px; }
+
+.about-us {
+  padding-bottom: 37px; }
 
 /*# sourceMappingURL=style.css.map */
