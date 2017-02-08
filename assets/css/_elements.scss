@@ -2,7 +2,7 @@
     background: #282828;
     padding-bottom: 80px;
     text-align: center;
-    
+      
     h2 {
         font: bold 30px/1 'Pontiac', sans-serif;
         color: #f05627;
@@ -75,7 +75,32 @@
     }
   }
 
+h3 {
+    font: bold 18px/15px 'Pontiac', sans-serif;
+    color: #000;
+    padding-top: 70px;
+    padding-bottom: 10px;
+    margin: 0;
+    margin-left: 200px;
+}
 
+.red-bar {
+        background: #f05627;
+        display: inline-block;
+        height: 2px;
+        margin: 0;
+        margin-left: 200px;
+        width: 90px;
 
+}
 
+.trusted {
+    font: normal 14px/1 'Pontaic', sans-serif;
+    color: #000;
+    padding-top: 20px;
+     margin-left: 200px;
+}
 
+.bricks {
+    padding-top: 65px;
+}
