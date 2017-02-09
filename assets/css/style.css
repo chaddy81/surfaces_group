@@ -214,4 +214,42 @@ h3 {
 .icon {
   padding-right: 6px; }
 
+.cert {
+  height: 50px;
+  width: 51px;
+  padding-right: 15px;
+  padding-top: 40px; }
+
+.spaces, .hardscapes {
+  background: #fff;
+  border: solid 1px #e5e5e5;
+  border-bottom: solid 5px #5f5e5e; }
+  .spaces h2, .hardscapes h2 {
+    margin: 0px;
+    padding-top: 45px;
+    padding-left: 175px;
+    font: bold 18px/1 'Pontiac', sans-serif;
+    color: #000; }
+  .spaces p, .hardscapes p {
+    text-align: center;
+    padding-top: 23px;
+    padding-bottom: 26px;
+    font: normal 14px/1 'Myriad Pro', 'sans-serif';
+    color: #282828;
+    margin: 0px;
+    padding-left: 85px;
+    width: 330px; }
+  .spaces a, .hardscapes a {
+    padding-left: 185px; }
+  .spaces .learn-button, .hardscapes .learn-button {
+    border: none;
+    background: #f05627;
+    color: #fff;
+    margin-left: 175px;
+    margin-bottom: 30px; }
+
+.public {
+  padding: 0;
+  margin-top: -50px; }
+
 /*# sourceMappingURL=style.css.map */
