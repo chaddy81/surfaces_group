@@ -189,4 +189,16 @@ h3 {
   color: #000;
   margin-left: 85px; }
 
+.info {
+  background: #282828;
+  min-height: 230px;
+  padding-top: 55px;
+  margin-left: 85px; }
+  .info h4 {
+    color: #999999;
+    font: bold 18px/15px 'Pontianc', 'sans-serif'; }
+  .info p {
+    color: #999999;
+    font: normal 14px/1 'Myriad Pro', 'sans-serif'; }
+
 /*# sourceMappingURL=style.css.map */
