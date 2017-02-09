@@ -103,9 +103,18 @@
     margin: 0 15px;
     vertical-align: middle;
     width: 74px; }
-  .sales-pitch .home-icon, .sales-pitch .about-icon, .sales-pitch .services-icon, .about-us .home-icon, .about-us .about-icon, .about-us .services-icon, .services .home-icon, .services .about-icon, .services .services-icon, .case .home-icon, .case .about-icon, .case .services-icon, .contact .home-icon, .contact .about-icon, .contact .services-icon {
+  .sales-pitch .home-icon, .about-us .home-icon, .services .home-icon, .case .home-icon, .contact .home-icon {
     height: 39px;
     width: 35px; }
+  .sales-pitch .about-icon, .about-us .about-icon, .services .about-icon, .case .about-icon, .contact .about-icon {
+    height: 46px;
+    width: 46px; }
+  .sales-pitch .services-icon, .about-us .services-icon, .services .services-icon, .case .services-icon, .contact .services-icon {
+    height: 53px;
+    width: 55px; }
+  .sales-pitch .contact-icon, .about-us .contact-icon, .services .contact-icon, .case .contact-icon, .contact .contact-icon {
+    width: 39px;
+    height: 38px; }
   .sales-pitch .discription, .about-us .discription, .services .discription, .case .discription, .contact .discription {
     font: normal 14px/1.5 'Pontiac', sans-serif;
     padding-top: 31px;

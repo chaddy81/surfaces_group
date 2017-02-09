@@ -22,10 +22,25 @@
         vertical-align: middle;
         width: 74px;
     }
-    .home-icon, .about-icon, .services-icon {
+    .home-icon {
         height: 39px;
         width: 35px;
+        
     }
+
+    .about-icon {
+            height: 46px;
+            width: 46px;
+        }
+    .services-icon {
+        height: 53px;
+        width:  55px;
+    }
+    .contact-icon {
+        width: 39px;
+        height: 38px;
+    }
+    
     .discription {
         font: normal 14px/1.5 'Pontiac', sans-serif;
         padding-top: 31px;
