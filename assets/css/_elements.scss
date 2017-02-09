@@ -109,7 +109,7 @@ h3 {
 
 }
 
-.trusted {
+.wall-txt, .stone-txt {
     font: normal 14px/1 'Pontaic', sans-serif;
     color: #000;
     padding-top: 20px;
@@ -117,9 +117,19 @@ h3 {
      
 }
 
-.wall {
+.wall-img, .stone-img {
     padding-top: 65px;
+    
 }
 
+.brick-img {
+            width: 394px;
+            height: 174px;
+            margin-left: 200px;
+        }
 
-
+.brick-txt {
+    font: normal 14px/1 'pontaic', sans-serif;
+    color: #000;
+    margin-left: 85px;
+}
