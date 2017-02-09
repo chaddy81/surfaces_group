@@ -154,50 +154,43 @@
     padding-top: 17px;
     padding-bottom: 20px; }
 
+.about-grid {
+  padding: 50px; }
+
 h3 {
   font: bold 18px/15px 'Pontiac', sans-serif;
-  color: #000;
-  padding-top: 70px;
-  padding-bottom: 10px;
-  margin: 0;
-  margin-left: 200px; }
+  color: #000; }
 
 .red-bar {
   background: #f05627;
   display: inline-block;
   height: 2px;
-  margin: 0;
-  margin-left: 200px;
-  width: 90px; }
+  width: 90px;
+  margin: 20px;
+  margin-left: 0; }
 
 .wall-txt, .stone-txt {
   font: normal 14px/1 'Pontaic', sans-serif;
   color: #000;
-  padding-top: 20px;
-  margin-left: 200px; }
+  width: 385px; }
 
-.wall-img, .stone-img {
-  padding-top: 65px; }
-
-.brick-img {
-  width: 394px;
-  height: 174px;
-  margin-left: 200px; }
+.stone-txt {
+  padding-top: 40px; }
 
 .brick-txt {
   font: normal 14px/1 'pontaic', sans-serif;
   color: #000;
-  margin-left: 85px; }
+  padding-top: 30px;
+  width: 375px; }
 
-.info {
+.sub-footer {
   background: #282828;
-  min-height: 230px;
-  padding-top: 55px;
-  margin-left: 85px; }
-  .info h4 {
+  text-align: center;
+  min-height: 230px; }
+  .sub-footer h4 {
     color: #999999;
-    font: bold 18px/15px 'Pontianc', 'sans-serif'; }
-  .info p {
+    font: bold 18px/1 'Pontianc', 'sans-serif'; }
+  .sub-footer p {
     color: #999999;
     font: normal 14px/1 'Myriad Pro', 'sans-serif'; }
 
