@@ -196,4 +196,22 @@ h3 {
     margin: 0;
     width: 290px; }
 
+.footer {
+  background: #000;
+  min-height: 130px; }
+  .footer p {
+    color: #8a8d8f;
+    font: bold 12px/1 'mayriad pro', 'sans-serif';
+    margin: 0px;
+    padding-top: 60px; }
+  .footer .footer-social {
+    padding-top: 50px;
+    padding-left: 111px; }
+  .footer img {
+    height: 33px;
+    width: 33px; }
+
+.icon {
+  padding-right: 6px; }
+
 /*# sourceMappingURL=style.css.map */
