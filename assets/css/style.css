@@ -185,13 +185,15 @@ h3 {
 
 .sub-footer {
   background: #282828;
-  text-align: center;
-  min-height: 230px; }
+  min-height: 230px;
+  padding-top: 60px; }
   .sub-footer h4 {
     color: #999999;
     font: bold 18px/1 'Pontianc', 'sans-serif'; }
   .sub-footer p {
     color: #999999;
-    font: normal 14px/1 'Myriad Pro', 'sans-serif'; }
+    font: normal 14px/1 'Myriad Pro', 'sans-serif';
+    margin: 0;
+    width: 290px; }
 
 /*# sourceMappingURL=style.css.map */
