@@ -11,7 +11,6 @@
     }
 
     p {
-        text-align: center;
         padding-top: 23px;
         padding-bottom: 26px;
         font: normal 14px/1 'Myriad Pro', 'sans-serif';
@@ -33,5 +32,9 @@
         padding: 0;
         margin-top: -50px;
     }
+
+   .png {
+       background: url(./assets/images/ICPI_bg.jpg);
+   }  
     
     

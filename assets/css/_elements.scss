@@ -10,6 +10,14 @@
         padding-top: 44px;
         padding-bottom: 17px;
     }
+
+    h3 {
+        font: bold 18px/15px 'Pontiac', sans-serif;
+        color: #000;
+        padding-top: 55px;
+        padding-bottom: 25px;
+    }
+   
     p {
         color: #e1e1e1;
         font: normal 24px/30px 'Myriad Pro', sans-serif;
@@ -32,6 +40,11 @@
             height: 46px;
             width: 46px;
         }
+
+    .case-studies-icon {
+        width: 30px;
+        height: 42px;
+    }    
     .services-icon {
         height: 53px;
         width:  55px;
@@ -128,3 +141,15 @@
             width: 375px
            
             }
+.case-studies-txt {
+    padding: 0;
+    padding-top: 50px;
+}
+
+.place-txt {
+    font: normal 14px/1 'Myriad Pro', sans-erif;
+    color: #000;
+    width: 370px;
+    padding: 0;
+
+}
