@@ -241,16 +241,18 @@ h3 {
 .spaces, .hardscapes {
   background: #fff;
   border: solid 1px #e5e5e5;
-  border-bottom: solid 5px #5f5e5e; }
+  border-bottom: solid 5px #5f5e5e;
+  display: inline-block;
+  padding: 45px 0 30px;
+  width: 500px; }
   .spaces h2, .hardscapes h2 {
     margin: 0px;
-    padding-top: 45px;
     font: bold 18px/1 'Pontiac', sans-serif;
     color: #000; }
   .spaces p, .hardscapes p {
     padding-top: 23px;
     padding-bottom: 26px;
-    font: normal 14px/1 'Myriad Pro', 'sans-serif';
+    font: normal 14px/normal 'Myriad Pro', 'sans-serif';
     color: #282828;
     margin: 0 auto;
     width: 330px; }
@@ -258,11 +260,21 @@ h3 {
     border: none;
     background: #f05627;
     color: #fff;
-    margin-bottom: 30px; }
+    font-size: 12px;
+    line-height: 34px;
+    padding: 0;
+    width: 128px; }
+
+.spaces {
+  margin-right: 15px; }
+
+.hardscapes {
+  margin-left: 15px; }
 
 .public {
   padding: 0;
-  margin-top: -50px; }
+  margin-top: -50px;
+  text-align: center; }
 
 .png {
   background: url(./assets/images/ICPI_bg.jpg); }
