@@ -1,14 +1,12 @@
 .sales-pitch, .about-us, .services, .case, .contact {
     background: #282828;
-    padding-bottom: 80px;
+    padding: 35px 0;
     text-align: center;
       
     h2 {
         font: bold 30px/normal'Pontiac', sans-serif;
         color: #f05627;
-        margin: 0;
-        padding-top: 44px;
-        padding-bottom: 17px;
+        margin: 0 0 20px;
     }
 
     h3 {
@@ -60,7 +58,7 @@
         color: #ababab;
     }
     .about{
-        font: normal 14px/1.5 'Pontiac', sans-serif;
+        font: italic normal 14px/1.5 'Pontiac', sans-serif;
         padding-top: 31px;
         color: #fff;
     }
@@ -74,10 +72,6 @@
 .about-us {
         padding-bottom: 37px;
     }
-
-.services {
-    padding-bottom: 0;
-}
 
 .case {
     padding-bottom: 0;
