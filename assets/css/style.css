@@ -252,6 +252,7 @@ h3 {
     padding-bottom: 26px;
     font: normal 14px/1 'Myriad Pro', 'sans-serif';
     color: #282828;
+    margin: 0 auto;
     width: 330px; }
   .spaces .learn-button, .hardscapes .learn-button {
     border: none;
