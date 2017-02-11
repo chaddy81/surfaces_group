@@ -34,14 +34,16 @@
         width: 33px;
        
     }
+
+    .cert {
+        display: inline-block;
+        height: 50px;
+        width: 51px;
+        margin-right: 15px;
+        margin-top: 40px
+    }
 }
 
  .icon {
-            padding-right: 6px;
-        }
- .cert {
-     height: 50px;
-     width: 51px;
-     padding-right: 15px;
-     padding-top: 40px
- }       
+    padding-right: 6px;
+}       
