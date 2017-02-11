@@ -394,4 +394,24 @@ h3 {
     margin-right: 30px;
     width: 33px; }
 
+.contact-img {
+  height: 485px;
+  background: url("../images/map.jpg") center center no-repeat;
+  background-size: cover; }
+
+.contact-txt {
+  text-align: left;
+  margin-left: 50px; }
+  .contact-txt.red-bar {
+    margin: 0; }
+  .contact-txt.mail-svg {
+    height: 29px;
+    width: 44px; }
+  .contact-txt h3 {
+    font: bold 18px/1 'Pontiac', sans-serif;
+    color: #000; }
+  .contact-txt p {
+    font: normal 14px/1 'Myriad Pro', sans-serif;
+    color: #222223; }
+
 /*# sourceMappingURL=style.css.map */
