@@ -13,3 +13,54 @@
         }
     }
 }
+
+.carousel-indicators {
+    li {
+        background: #fff;
+        border: none;
+        opacity: .20;
+
+        &.active {
+            background: #f05627;
+            opacity: 1;
+        }
+    }
+}
+
+.carousel-inner .item {
+    &:after {
+        background: rgba(0,0,0,0.3);
+        content: '';
+        height: 100%;
+        position: absolute;
+        top: 0;
+        width: 100%;
+    }
+}
+
+.carousel-caption {
+    bottom: inherit;
+    top: 50%;
+    transform: translateY(-50%);
+
+    h2 {
+        line-height: 1;
+        margin-top: 0;
+        text-shadow: none;
+    }
+
+    p {
+        font-style: italic;
+        text-shadow: none;
+    }
+
+    .btn {
+        background: #f05627;
+        border: none;
+        border-radius: 0;
+        box-shadow: none;
+        font-size: 12px;
+        margin-top: 50px;
+        text-shadow: none;
+    }
+}

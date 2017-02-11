@@ -50,41 +50,6 @@
 
 .png {
     background: url(./assets/images/ICPI_bg.jpg);
-}  
-
-.carousel-indicators {
-    li {
-        background: #fff;
-        border: none;
-        opacity: .20;
-
-        &.active {
-            background: #f05627;
-            opacity: 1;
-        }
-    }
-}
-
-.carousel-caption {
-
-    h2 {
-        line-height: 1;
-        margin-top: 0;
-    }
-
-    .btn {
-        background: #f05627;
-        border: none;
-        border-radius: 0;
-        box-shadow: none;
-        font-size: 12px;
-        margin-top: 50px;
-        text-shadow: none;
-    }
-
-    bottom: inherit;
-    top: 50%;
-    transform: translateY(-50%);
 }
 
 @media(max-width: 720px) {
