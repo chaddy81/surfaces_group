@@ -124,7 +124,7 @@
   padding-bottom: 80px;
   text-align: center; }
   .sales-pitch h2, .about-us h2, .services h2, .case h2, .contact h2 {
-    font: bold 30px/1 'Pontiac', sans-serif;
+    font: bold 30px/normal "Pontiac", sans-serif;
     color: #f05627;
     margin: 0;
     padding-top: 44px;
@@ -169,7 +169,7 @@
     color: #fff; }
   .sales-pitch .areas, .about-us .areas, .services .areas, .case .areas, .contact .areas {
     color: #ababab;
-    font: normal 18px/1 'Myriad Pro', sans-serif;
+    font: normal 18px/normal "Myriad Pro", sans-serif;
     padding-top: 25px; }
 
 .about-us {
@@ -193,7 +193,7 @@
   background: #474847;
   max-height: 51px; }
   .scapes h2 {
-    font: bold 20px/1 'Pontiac', sans-serif;
+    font: bold 20px/normal "Pontiac", sans-serif;
     color: #fff;
     padding-top: 17px;
     padding-bottom: 20px; }
@@ -214,7 +214,7 @@ h3 {
   margin-left: 0; }
 
 .wall-txt, .stone-txt {
-  font: normal 14px/1 'Pontaic', sans-serif;
+  font: normal 14px/normal 'Pontiac', sans-serif;
   color: #000;
   width: 385px; }
 
@@ -222,7 +222,7 @@ h3 {
   padding-top: 40px; }
 
 .brick-txt {
-  font: normal 14px/1 'pontaic', sans-serif;
+  font: normal 14px/normal 'Pontiac', sans-serif;
   color: #000;
   padding-top: 30px;
   width: 375px; }
@@ -232,7 +232,7 @@ h3 {
   padding-top: 50px; }
 
 .place-txt {
-  font: normal 14px/1 'Myriad Pro', sans-erif;
+  font: normal 14px/normal 'Myriad Pro', sans-serif;
   color: #000;
   width: 370px;
   padding: 0; }
@@ -319,5 +319,47 @@ h3 {
   .spaces, .hardscapes {
     margin: 0;
     width: 100%; } }
+.case-studies-img {
+  height: 255px;
+  position: relative; }
+  .case-studies-img.camden-place {
+    background: url("../images/camden-paces.jpg") center center no-repeat;
+    background-size: cover; }
+  .case-studies-img .btn {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%); }
+
+.case-studies-txt {
+  height: 255px;
+  padding-top: 55px;
+  position: relative; }
+  .case-studies-txt h3 {
+    margin: 0; }
+  .case-studies-txt p {
+    margin: 0 auto; }
+  .case-studies-txt .arrow {
+    background: #fff;
+    display: inline-block;
+    height: 45px;
+    width: 45px;
+    margin-top: -22.5px;
+    position: absolute;
+    right: -22.5px;
+    top: 50%;
+    z-index: 1;
+    transform: rotate(45deg); }
+  .case-studies-txt.pull-right .arrow {
+    background: #fff;
+    display: inline-block;
+    height: 45px;
+    width: 45px;
+    margin-top: -22.5px;
+    position: absolute;
+    left: -22.5px;
+    top: 50%;
+    z-index: 1;
+    transform: rotate(45deg); }
 
 /*# sourceMappingURL=style.css.map */
