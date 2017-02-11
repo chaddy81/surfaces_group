@@ -121,6 +121,7 @@
 
 .sales-pitch, .about-us, .services, .case, .contact {
   background: #282828;
+  margin-bottom: 60px;
   padding: 35px 0;
   text-align: center; }
   .sales-pitch h2, .about-us h2, .services h2, .case h2, .contact h2 {
