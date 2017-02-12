@@ -394,6 +394,9 @@ h3 {
     margin-right: 30px;
     width: 33px; }
 
+.contact {
+  margin: 0; }
+
 .contact-img {
   height: 485px;
   background: url("../images/map.jpg") center center no-repeat;
@@ -401,17 +404,35 @@ h3 {
 
 .contact-txt {
   text-align: left;
-  margin-left: 50px; }
+  margin-left: 50px;
+  margin-top: 47px; }
   .contact-txt.red-bar {
     margin: 0; }
-  .contact-txt.mail-svg {
-    height: 29px;
-    width: 44px; }
   .contact-txt h3 {
     font: bold 18px/1 'Pontiac', sans-serif;
     color: #000; }
   .contact-txt p {
     font: normal 14px/1 'Myriad Pro', sans-serif;
-    color: #222223; }
+    color: #59595a; }
+
+.form-txt {
+  width: 335px;
+  border: 2px solid #f2f2f2;
+  margin-top: 40px;
+  border-bottom: 5px solid #5f5e5e; }
+  .form-txt .mail-svg {
+    height: 29px;
+    width: 44px; }
+  .form-txt .form-group {
+    width: 275px; }
+  .form-txt .submit-button {
+    border: none;
+    background: #f05627;
+    color: #fff;
+    font-size: 12px;
+    line-height: 34px;
+    padding: 0;
+    width: 275px;
+    margin-bottom: 33px; }
 
 /*# sourceMappingURL=style.css.map */

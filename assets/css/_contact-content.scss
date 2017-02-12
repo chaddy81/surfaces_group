@@ -1,3 +1,6 @@
+.contact {
+    margin: 0;
+}
 .contact-img {
     height: 485px;
     background: url("../images/map.jpg") center center no-repeat;
@@ -6,21 +9,44 @@
 .contact-txt {
     text-align: left;
     margin-left: 50px;
+    margin-top: 47px;
     &.red-bar {
         margin: 0;
     }
-    &.mail-svg {
-        height: 29px;
-        width: 44px;
-    }
+
     h3 {
         font: bold 18px/1 'Pontiac', sans-serif;
         color: #000;
+       
         }
     p {
         font: normal 14px/1 'Myriad Pro', sans-serif;
-        color: #222223;
+        color: #59595a;
     }    
 }
+.form-txt {
+    width: 335px;
+    border: 2px solid #f2f2f2;
+    margin-top: 40px;
+    border-bottom: 5px solid #5f5e5e;
 
+    .mail-svg {
+        height: 29px;
+        width: 44px;
+    }
+    .form-group {
+        width: 275px;
+    }
+    .submit-button {
+        border: none;
+        background: #f05627;
+        color: #fff;
+        font-size: 12px;
+        line-height: 34px;
+        padding: 0;
+        width: 275px;
+        margin-bottom: 33px;
+    }
+}
+    
 
