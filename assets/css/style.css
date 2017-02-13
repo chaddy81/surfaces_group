@@ -325,7 +325,14 @@ h3 {
     position: absolute;
     left: 50%;
     top: 50%;
-    transform: translate(-50%, -50%); }
+    transform: translate(-50%, -50%);
+    border: none;
+    background: #fd4d00;
+    color: #fff;
+    font-size: 12px;
+    line-height: 34px;
+    padding: 0;
+    width: 128px; }
 
 .case-studies-txt {
   height: 255px;
