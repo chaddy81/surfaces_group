@@ -48,5 +48,50 @@
         margin-bottom: 33px;
     }
 }
+.testimonial-top{
+    height: 135px;
+    background: #ff5200;
+    text-align: center;
+    padding-top: 45px;
+    h4 {
+        color: #fff;
+        font: bold 24px 'Pontaic', sans-serif;
+        margin: 0;
+        text-transform: uppercase;
+    }
+    .black-bar {
+    background: #000;
+    display: block;
+    height: 5px;
+    width: 80px;
+    margin: 0 auto;
+    margin-top: 30px;
     
+    }
+}
+    
+    .testimonial {
+    background: #ff5200;
+    height: 185px;
+    overflow: hidden;
+   }
+
+.text-inner {
+    margin-left: 265px;
+   
+    .text-caption {
+        color: #fff;
+        text-align: center;
+        font: normal 16px/1 'Myraid Pro', sans-serif;
+        width: 670;
+    }
+}
+
+.carousel-control {
+    color: #ff7533;
+}
+
+
+
+
 
