@@ -8,9 +8,13 @@
 }
 .description {
     padding-left: 21px;
+    h3 {
+        text-transform: uppercase;
+    }
     p {
         border-bottom: solid #e7e7e8 2px;
-        width: 373px;
+        width: 375px;
+        padding-bottom: 10px;
     }
     .role {
         border-bottom: none;
